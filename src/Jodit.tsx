@@ -243,6 +243,7 @@ function Jodit() {
             askBeforePasteFromWord: true,
             //defaultActionOnPaste: "insert_clear_html",
             buttons: [
+                  'speechRecognize',
                 'source', '|',
                 'bold',
                 'strikethrough',
@@ -268,6 +269,7 @@ function Jodit() {
 
             ],
             buttonsMD: [
+                  'speechRecognize',
                 'source', '|',
                 'bold',
                 'strikethrough',
@@ -293,6 +295,7 @@ function Jodit() {
 
             ],
             buttonsSM: [
+                  'speechRecognize',
                 'source', '|',
                 'bold',
                 'strikethrough',
@@ -318,6 +321,7 @@ function Jodit() {
 
             ],
             buttonsXS: [
+                  'speechRecognize',
                 'source', '|',
                 'bold',
                 'strikethrough',
